@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\3PennyGame\3PennyGame\bin\Debug\3PennyGame.exe.config
+C:\Users\user\source\repos\3PennyGame\3PennyGame\bin\Debug\3PennyGame.exe
+C:\Users\user\source\repos\3PennyGame\3PennyGame\bin\Debug\3PennyGame.pdb
+C:\Users\user\source\repos\3PennyGame\3PennyGame\obj\Debug\3PennyGame.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\3PennyGame\3PennyGame\obj\Debug\_3PennyGame.Form1.resources
+C:\Users\user\source\repos\3PennyGame\3PennyGame\obj\Debug\_3PennyGame.Properties.Resources.resources
+C:\Users\user\source\repos\3PennyGame\3PennyGame\obj\Debug\3PennyGame.csproj.GenerateResource.cache
+C:\Users\user\source\repos\3PennyGame\3PennyGame\obj\Debug\3PennyGame.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\3PennyGame\3PennyGame\obj\Debug\3PennyGame.exe
+C:\Users\user\source\repos\3PennyGame\3PennyGame\obj\Debug\3PennyGame.pdb
+C:\Users\user\source\repos\3PennyGame\3PennyGame\obj\Debug\_3PennyGame.Form2.resources
+C:\Users\user\source\repos\3PennyGame\3PennyGame\obj\Debug\_3PennyGame.Form3.resources
+C:\Users\user\source\repos\3PennyGame\3PennyGame\obj\Debug\_3PennyGame.Form5.resources
+C:\Users\user\source\repos\3PennyGame\3PennyGame\obj\Debug\_3PennyGame.Form4.resources
